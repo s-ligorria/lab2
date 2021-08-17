@@ -159,9 +159,7 @@ hr{
 .clientes{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    align-content: center;
-    align-items: center;
+    justify-content: center;
     width: 91%;
     margin-bottom: 20px;
 }
@@ -171,7 +169,7 @@ hr{
     border-radius: 20px;
     padding: 30px;
     display: flex;
-    width: 520px;
+    width: 400px;
     background-color: rgb(179, 251, 253);
 }
 
